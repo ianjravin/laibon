@@ -1,5 +1,5 @@
-/* Theme Name:Worthy - Free Powerful Theme by HtmlCoder
-Author:HtmlCoder
+/*
+Author:Ian Jravin
 Author URI:http://www.htmlcoder.me
 Version:1.0.0
 Created:November 2014
@@ -142,7 +142,7 @@ blockquote {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: rgba(0, 0, 0, 0.55);
+
 	content: "";
 }
 .banner-caption {
@@ -225,15 +225,13 @@ blockquote {
 	height: 100%;
 	background-color: rgba(0, 0, 0, 0.7);
 }
-.translucent-bg.blue:after {
-	background-color: rgba(85, 172, 238, 0.7);
-}
+
 .translucent-bg .container {
 	z-index: 3;
 	position: relative;
 }
 .bg-image-1 {
-	background: url("../images/bg-image-1.jpg") 50% 0px no-repeat;
+	background: url("../images/bg-image-1.jpg") 90% 0px no-repeat;
 }
 .bg-image-2 {
 	background: url("../images/bg-image-2.jpg") 50% 0px no-repeat;
